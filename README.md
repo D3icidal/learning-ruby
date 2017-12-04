@@ -8,7 +8,7 @@ Check out the ["Installing Ruby"](installing-ruby.md) file.
 
 ---
 
-## The Work
+## The Work 
 
 Here's a list of resources to get you going. Once you complete these, you will have grasped the essential ways Ruby does things and will be ready for bigger and better things, like building for the web!
 
